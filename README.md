@@ -4,7 +4,7 @@
 
 > Trilha Explore
 
-Projeto construido do evento Next Level Week da Rocktseat.
+Projeto construido do evento Next Level Week da Rocketseat.
 
 :link:[Clique aqui para acessar](https://mizato.github.io/NLW-eSports/)
 
